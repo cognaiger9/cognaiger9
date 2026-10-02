@@ -15,7 +15,6 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Currently building **TalksyAI** — a social skills training app with real paying users
 - ⚙️ Background in **GPU kernel optimization** — C++, AMD hardware, throughput-focused systems work
 - 🤖 Now focused on **AI engineering** — agentic systems, RAG pipelines, function-calling engines
 - 📱 Full-stack **iOS developer** — Swift, SwiftUI, React Native

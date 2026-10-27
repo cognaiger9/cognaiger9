@@ -1,35 +1,21 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/cognaiger9" target="blank">Benjamin</a></h1>
-<h3 align="center">Systems guy at heart — optimized GPU kernels in C++. Now chasing AI engineering. Indie hacker on the side. 🇻🇳</h3>
+## Benjamin - LLM inference & GPU systems 🇻🇳
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cognaiger9&label=Profile%20views&color=0e75b6&style=flat" alt="cognaiger9" />
-</p>
+I make large models serve faster: attention and MoE kernels, quantized GEMMs, and the serving-engine plumbing around them. I also build and ship iOS apps on the side.
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+### Highlights
+- **SGLang contributor** - merged work on Gemma 4, MoE and DeepSeek sparse attention:
+  - [FA4 on Hopper (SM90) with head_dim 512 for Gemma 4](https://github.com/sgl-project/sglang/pull/42019)
+  - [Faster w4a8 MoE for GLM-5.2 on H200](https://github.com/sgl-project/sglang/pull/38220) - up to 1.23× faster
+  - [int32 offset overflow fix in the CUTLASS MoE pre-reorder](https://github.com/sgl-project/sglang/pull/35188)
+  - [DSA ragged seed-index fix before MTP draft decode](https://github.com/sgl-project/sglang/pull/42565)
+  - In review: [per-layer attention backends for Gemma 4](https://github.com/sgl-project/sglang/pull/44399), [FlashInfer SM90 w4a8 CUTLASS MoE](https://github.com/sgl-project/sglang/pull/40538)
+- **GPU kernels** - throughput-focused C++ kernel work on AMD hardware
 
-- ⚙️ Background in **GPU kernel optimization** — C++, AMD hardware, throughput-focused systems work
-- 🤖 Now focused on **AI engineering** — agentic systems, RAG pipelines, function-calling engines
-- 📱 Full-stack **iOS developer** — Swift, SwiftUI, React Native
-- 💬 Ask me about **agentic AI architecture, RAG systems, or indie app development**
-- 📫 Reach me at **ngoctruonggia@gmail.com**
+### Stack
+C++ · CUDA · HIP · CUTLASS · Triton · Python · PyTorch · SGLang · vLLM
+Swift · SwiftUI · TypeScript · React
 
-<br/>
+### Open to
+LLM inference / ML systems roles and collaborations.
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
-
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ngoctruonggia/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cognaiger9">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:ngoctruonggia@gmail.com">
-      <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a>
-  </div>
-</p>
-
----
-
-*Last updated: April 2026*
+📫 [ngoctruonggia@gmail.com](mailto:ngoctruonggia@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ngoctruonggia/)

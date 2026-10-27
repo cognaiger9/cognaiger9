@@ -9,7 +9,8 @@ I make large models serve faster: attention and MoE kernels, quantized GEMMs, an
   - [int32 offset overflow fix in the CUTLASS MoE pre-reorder](https://github.com/sgl-project/sglang/pull/35188)
   - [DSA ragged seed-index fix before MTP draft decode](https://github.com/sgl-project/sglang/pull/42565)
   - In review: [per-layer attention backends for Gemma 4](https://github.com/sgl-project/sglang/pull/44399), [FlashInfer SM90 w4a8 CUTLASS MoE](https://github.com/sgl-project/sglang/pull/40538)
-- **GPU kernels** - throughput-focused C++ kernel work on AMD hardware
+- **GPU kernels** - throughput-focused C++ kernel work on AMD hardware:
+  - [GLU kernel in MIOpen](https://github.com/ROCm/MIOpen/pull/3247)
 
 ### Stack
 C++ · CUDA · HIP · CUTLASS · Triton · Python · PyTorch · SGLang · vLLM

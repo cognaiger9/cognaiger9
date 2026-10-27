@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=cognaiger9&label=Profile%20views&color=0e75b6&style=flat" alt="cognaiger9" />
 </p>
 
-<p align="left">
-  <a href="https://x.com/benja_maker" target="blank">
-    <img src="https://img.shields.io/twitter/follow/benja_maker?logo=twitter&style=for-the-badge" alt="benja_maker" />
-  </a>
-</p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -31,8 +25,6 @@
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/cognaiger9">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://x.com/benja_maker">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:ngoctruonggia@gmail.com">
       <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a>
   </div>
